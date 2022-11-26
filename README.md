@@ -1,5 +1,6 @@
 ### Special Note
 - Used `react-native-arcgis-mapview` v1.0.11
+- There is an opened issue for Android with base map URL (iOS works fine): https://github.com/davidgalindo/react-native-arcgis-mapview/issues/12
 
 ### App Screenshots
 <table>
