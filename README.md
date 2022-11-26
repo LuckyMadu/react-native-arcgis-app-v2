@@ -1,6 +1,7 @@
 ### Special Note
 - Used `react-native-arcgis-mapview` v1.0.11
 - There is an opened issue for Android with base map URL (iOS works fine): https://github.com/davidgalindo/react-native-arcgis-mapview/issues/12
+- If the app APK does not load the first time, close and reopen it. 
 
 ### App Screenshots (Initial Region)
 <table>
