@@ -19,7 +19,7 @@ const App = () => {
         recenterIfGraphicTapped={true}
         rotationEnabled={false}
         mapBasemap={{ type: 'normal' }}
-        basemapUrl={mapUrl}
+        basemapUrl={Platform.OS === 'ios' ? mapUrl : null}
       />
     </View>
   );
