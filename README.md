@@ -1,4 +1,6 @@
-   
+### Special Note
+- Used `react-native-arcgis-mapview` v1.0.11
+
 ### App Screenshots
 <table>
   <tr>
