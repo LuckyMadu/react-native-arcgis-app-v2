@@ -6,37 +6,6 @@
 #### Original link has been disabled and I this basemap URL related to qatar city (https://swivel.maps.arcgis.com/home/item.html?id=210fc4f67878407ca35cb91e7f951cdf)
 <img src="https://user-images.githubusercontent.com/19740478/208044410-7bf9e1dc-a78b-47a5-ba58-686d37242a3d.png" width=1000 height=500>
 
-### App Screenshots (Initial Region)
-<table>
-  <tr>
-    <td>iOS</td>
-    <td>Android</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://user-images.githubusercontent.com/19740478/204038366-f1b876b7-fa1c-4064-a7e3-a6c10000c8f6.png" width=400 height=800>
-    </td>
-    <td> 
-      <img src="https://user-images.githubusercontent.com/19740478/204037843-59b160d4-2236-43b5-878e-deda6305c5ae.png" width=500 height=800>       
-     </td>
-  </tr>
-</table>
-
-### App Screenshots (with base map URL)
-<table>
-  <tr>
-    <td>iOS</td>
-    <td>Android</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://user-images.githubusercontent.com/19740478/204091198-bc375320-8f62-4f81-90dd-5ac0e18bc18e.png" width=400 height=800>
-    </td>
-    <td> 
-      <img src="https://user-images.githubusercontent.com/19740478/204091212-c4ddf1ee-3ece-4231-beb2-9ad32f02d8ef.png" width=500 height=800>       
-     </td>
-  </tr>
-</table>
 
 ### App Screenshots (with updated basemap URL)
 <table>
