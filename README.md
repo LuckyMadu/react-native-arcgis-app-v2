@@ -3,7 +3,7 @@
 - There is an opened issue for Android with base map URL (iOS works fine): https://github.com/davidgalindo/react-native-arcgis-mapview/issues/12
 - If the app APK does not load the first time, close and reopen it. 
 
-### Original link has been disabled and I created my own basemap URL (https://swivel.maps.arcgis.com/home/item.html?id=210fc4f67878407ca35cb91e7f951cdf)
+#### Original link has been disabled and I this basemap URL related to qatar city (https://swivel.maps.arcgis.com/home/item.html?id=210fc4f67878407ca35cb91e7f951cdf)
 <img src="https://user-images.githubusercontent.com/19740478/208044410-7bf9e1dc-a78b-47a5-ba58-686d37242a3d.png" width=1000 height=500>
 
 
