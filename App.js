@@ -18,7 +18,7 @@ const App = () => {
       <ArcGISMapView
         ref={mapView}
         style={styles.mapStyle}
-        //initialMapCenter={initialRegion} // TODO: disabled for debugging purpose
+        //initialMapCenter={initialRegion} // disabled for debugging purpose
         recenterIfGraphicTapped={true}
         rotationEnabled={false}
         mapBasemap={{ type: 'normal' }}
