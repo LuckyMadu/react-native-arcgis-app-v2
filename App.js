@@ -4,9 +4,12 @@ import ArcGISMapView from 'react-native-arcgis-mapview'
 
 const App = () => {
   //initial region for testing purpose
-  const initialRegion = [{ latitude: 34.055561, longitude: -117.182602 }]
+  const initialRegion = [{
+    latitude: 26.228873,
+    longitude: 53.018237
+  }]
   // base map URL
-  const mapUrl = "https://services.gisqatar.org.qa/server/rest/services/Vector/Qatar_StreetMap_Hybrid_E/MapServer?f=jsapi"
+  const mapUrl = "https://swivel.maps.arcgis.com/home/item.html?id=210fc4f67878407ca35cb91e7f951cdf"
   // referrence for accessing DOM elements
   const mapView = useRef();
 
@@ -15,11 +18,12 @@ const App = () => {
       <ArcGISMapView
         ref={mapView}
         style={styles.mapStyle}
-        //initialMapCenter={initialRegion} // Disabled the initial region
+        initialMapCenter={initialRegion} // TODO: disabled for debugging purpose
         recenterIfGraphicTapped={true}
         rotationEnabled={false}
         mapBasemap={{ type: 'normal' }}
-        basemapUrl={Platform.OS === 'ios' ? mapUrl : null}
+        basemapUrl={mapUrl}
+        routeUrl={mapUrl}
       />
     </View>
   );
