@@ -35,6 +35,22 @@
   </tr>
 </table>
 
+### App Screenshots (with updated basemap URL)
+<table>
+  <tr>
+    <td>iOS</td>
+    <td>Android</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/19740478/208043859-cc6a188e-47aa-44d4-afdb-9e270cf9eedb.png" width=400 height=800>
+    </td>
+    <td> 
+      <img src="https://user-images.githubusercontent.com/19740478/208043889-461c7edc-50ff-415d-9a77-f75e4907f91d.png" width=500 height=800>       
+     </td>
+  </tr>
+</table>
+
 ### Errors occured in arcgis v100.6
 #### You can downgrade the version into v100.4 to fix this issue
 
